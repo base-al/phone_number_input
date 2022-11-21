@@ -1,9 +1,9 @@
 A Highly customizable Phone input Flutter widget that supports country code, validation and contact picker.
 
 <p float="center">
-  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/master/example/screenshots/01.gif" width="30%" />
-  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/master/example/screenshots/02.gif" width="30%" /> 
-  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/master/example/screenshots/03.gif" width="30%" />
+  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/main/example/screenshots/01.gif" width="30%" />
+  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/main/example/screenshots/02.gif" width="30%" /> 
+  <img src="https://raw.githubusercontent.com/base-al/phone_number_input/main/example/screenshots/03.gif" width="30%" />
 </p>
 
 ## Features
