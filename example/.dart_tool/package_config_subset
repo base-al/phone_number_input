@@ -1,11 +1,11 @@
 phone_number_input
 2.16
-file:///Volumes/External/flakerimi/Base/mobile/base_accounts/packages/phone_number_input-1.0.0/
-file:///Volumes/External/flakerimi/Base/mobile/base_accounts/packages/phone_number_input-1.0.0/lib/
+file:///Volumes/External/flakerimi/Base/mobile/base_accounts/base/phone_number_input/
+file:///Volumes/External/flakerimi/Base/mobile/base_accounts/base/phone_number_input/lib/
 example
 2.16
-file:///Volumes/External/flakerimi/Base/mobile/base_accounts/packages/phone_number_input-1.0.0/example/
-file:///Volumes/External/flakerimi/Base/mobile/base_accounts/packages/phone_number_input-1.0.0/example/lib/
+file:///Volumes/External/flakerimi/Base/mobile/base_accounts/base/phone_number_input/example/
+file:///Volumes/External/flakerimi/Base/mobile/base_accounts/base/phone_number_input/example/lib/
 async
 2.14
 file:///Volumes/External/flakerimi/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.9.0/

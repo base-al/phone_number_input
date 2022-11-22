@@ -24,7 +24,6 @@ class PhoneNumberInput extends StatefulWidget {
   final CountryListMode countryListMode;
   final InputBorder? enabledBorder;
   final InputBorder? focusedBorder;
-  final ContactsPickerPosition contactsPickerPosition;
   final String? errorText;
   const PhoneNumberInput({
     Key? key,
@@ -45,7 +44,6 @@ class PhoneNumberInput extends StatefulWidget {
     this.countryListMode = CountryListMode.bottomSheet,
     this.enabledBorder,
     this.focusedBorder,
-    this.contactsPickerPosition = ContactsPickerPosition.suffix,
     this.errorText,
   }) : super(key: key);
 
@@ -185,7 +183,7 @@ class _CountryCodePickerState extends State<PhoneNumberInput> {
         showModalBottomSheet(
             isScrollControlled: true,
             shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(20),
+              borderRadius: BorderRadius.circular(10),
             ),
             enableDrag: true,
             context: context,

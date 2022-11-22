@@ -51,7 +51,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 initialCountry: 'SA',
                 locale: 'it',
                 countryListMode: CountryListMode.bottomSheet,
-                contactsPickerPosition: ContactsPickerPosition.suffix,
               ),
               const SizedBox(
                 height: 50,
@@ -61,7 +60,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 initialCountry: 'SA',
                 locale: 'it',
                 countryListMode: CountryListMode.dialog,
-                contactsPickerPosition: ContactsPickerPosition.suffix,
               ),
               const SizedBox(
                 height: 50,
@@ -74,7 +72,6 @@ class _MyHomePageState extends State<MyHomePage> {
                   context,
                 ),
                 countryListMode: CountryListMode.dialog,
-                contactsPickerPosition: ContactsPickerPosition.suffix,
                 enabledBorder: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10),
                     borderSide: const BorderSide(color: Colors.purple)),
@@ -91,7 +88,6 @@ class _MyHomePageState extends State<MyHomePage> {
                 initialCountry: 'YE',
                 locale: 'it',
                 countryListMode: CountryListMode.dialog,
-                contactsPickerPosition: ContactsPickerPosition.bottom,
                 pickContactIcon: Card(
                   color: Colors.blueGrey,
                   child: Padding(
@@ -110,7 +106,6 @@ class _MyHomePageState extends State<MyHomePage> {
               const PhoneNumberInput(
                 locale: 'it',
                 countryListMode: CountryListMode.bottomSheet,
-                contactsPickerPosition: ContactsPickerPosition.suffix,
                 pickContactIcon: Icon(Icons.add),
                 showSelectedFlag: false,
                 hint: 'XXXXXXXXXXX',
